@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Utham Kumar N S',
   author: 'Utham Kumar N S',
-  headerTitle: 'Blog title',
+  headerTitle: 'Permutations',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'uthamkmr@gmail.com',
+  github: 'https://github.com/utham9/utham-blog',
+  twitter: '',
+  facebook: '',
+  youtube: '',
+  linkedin: 'https://www.linkedin.com/in/uthamkmr/',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
