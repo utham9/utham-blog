@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Utham Kumar N S',
+  title: 'Permutations',
   author: 'Utham Kumar N S',
   headerTitle: 'Permutations',
   description: 'A blog created with Next.js and Tailwind.css',
