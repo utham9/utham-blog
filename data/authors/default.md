@@ -1,5 +1,5 @@
 ---
-name: Utham Kumar N S
+name: Utham Kumar
 avatar: /static/images/avatar.png
 occupation: Lead SDET
 #company: Stanford University
