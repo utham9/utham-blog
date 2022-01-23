@@ -73,7 +73,7 @@ Below docker compose file creates 3 docker containers in the order.
 
 More nodes can be added, as required
 
-```docker
+```yaml
 version: "3.3"
 
 services:
@@ -198,7 +198,7 @@ pipeline {
                         url: gitUrl
             }
         }
-        
+
         stage('docker') {
             steps {
                 script {
